@@ -223,6 +223,9 @@ By implementing the **Microsoft Power Platform** (Power Apps, Power Automate, Po
 
 In conclusion, the **Microsoft Power Platform** provides a comprehensive solution that addresses the key pain points in order processing and inventory management. By automating workflows, improving data visibility, and reducing manual interventions, the company can achieve significant improvements in efficiency, accuracy, and customer satisfaction.
 
+[Click here to view the presentation](https://m365x54021218-my.sharepoint.com/:p:/g/personal/gabriel_ogunbiyi_gabbee_com_ng/EczYTjXYfpdKjqUO2xUKULABDKi85IPPkezQmVADjsN3eg?e=dczVrk)
+
+
 
 
 
